@@ -7,7 +7,7 @@
   <img align="center" alt="Jhess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhess-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jhess-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jhess-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_wOI8Yrw6.png">
+  <img align="right" alt="Jhess-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_hypF5NsE.png">
 </div>
   
   ##
