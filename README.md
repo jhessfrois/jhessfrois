@@ -1,10 +1,18 @@
 ## Meu nome é Jhessica Frois, seja muito bem vindo (a) ao meu perfil no Github!
 
+###### Sobre a Jhessica
+Atualmente estudando programação pela Rocketseat. Apredendo fundamentos essenciais para o desenvolvimento web, com foco em front end.
+
 ### DETALHES
 
 ![Jhessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhessfrois&show_icons=true&theme=radical)
 
 ### PROJETOS
+
+
+###  LINGUAGENS UTILIZADAS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhessfrois&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ESTUDOS
 
@@ -21,9 +29,9 @@
   
   ### CONTATOS
  
-<div> 
+<div>
+  <a href="https://www.linkedin.com/in/jhessica-frois-2855421b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jhesscode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href = "mailto:jhessfsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhessica-frois-2855421b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	 <a href = "mailto:jhessfsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 </div>
