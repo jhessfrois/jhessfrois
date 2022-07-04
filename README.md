@@ -9,11 +9,11 @@ Atualmente estudando programação pela Rocketseat. Apredendo fundamentos essenc
 
 ### PROJETOS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhessfrois&repo=revelando-destino&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhessfrois&repo=revelando-destino&theme=radical)](https://github.com/jhessfrois/github-readme-stats)
 
 ###  LINGUAGENS UTILIZADAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhessfrois&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhessfrois&theme=radical&layout=compact)](https://github.com/jhessfrois/github-readme-stats)
 
 ### ESTUDOS
 
