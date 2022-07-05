@@ -13,7 +13,10 @@ Atualmente estudando programação pela Rocketseat. Apredendo fundamentos essenc
 
 ###  LINGUAGENS UTILIZADAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhessfrois&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://instagram.com/jhesscodes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhessfrois&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ### ESTUDOS
 
