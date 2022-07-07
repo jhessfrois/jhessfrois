@@ -9,6 +9,8 @@ Atualmente estudando programação pela Rocketseat. Apredendo fundamentos essenc
 
 ### PROJETOS
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhessfrois&repo=revelar-destino&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhessfrois&repo=insta-links&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ###  LINGUAGENS UTILIZADAS
