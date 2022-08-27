@@ -1,7 +1,7 @@
 ## Meu nome é Jhessica Frois, seja muito bem vindo (a) ao meu perfil no Github!
 
 ###### Sobre a Jhessica
-Atualmente estudando programação pela Rocketseat. Apredendo fundamentos essenciais para o desenvolvimento web, com foco em front end.
+Atualmente estudando programação. Apredendo fundamentos essenciais para o desenvolvimento web, com foco em front end.
 
 ### DETALHES
 
