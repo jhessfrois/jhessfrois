@@ -35,9 +35,9 @@ With the discovering of this area, I fell in love with the way I could create at
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-badge&logo=html5&logoColor=fff)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=fff)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=fff)&nbsp;
+<hr>  
   
-  
-  ### CONTACTS
+### CONTACTS
  
 [![Linkedin Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhessfrois/)](//www.linkedin.com/in/jhessfrois/) 
 [![Instagram Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&&target=_blank&logo=Instagram&logoColor=black&link=https://www.instagram.com/jhess.dev/)](//www.instagram.com/jhess.dev/) 
