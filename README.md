@@ -1,20 +1,20 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://cdn.discordapp.com/attachments/1151828084207652866/1151828244694323200/Hand_coding-bro.png">
+
 # Jhessica Frois
 
 ###### Frontend Developer & Software Engineer
 My name is Jhessica Frois, I'm 27 years old. I'm a Software Engineering student and Front End Development. Passionate about technology, music and animals.
 <hr>
 
+### CONTACTS
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhessfrois/)](//www.linkedin.com/in/jhessfrois/) 
+[![Instagram Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&&target=_blank&logo=Instagram&logoColor=black&link=https://www.instagram.com/jhess.dev/)](//www.instagram.com/jhess.dev/) 
+[![Gmail Badge](https://img.shields.io/badge/-jhessfsantos@gmail.com-fff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:jhessfsantos@gmail.com)](mailto:jhessfsantos@gmail.com)
+
 ### DETALHES
 
 ![Jhessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhessfrois&show_icons=true&theme=dark)
-
-<hr>
-
-###  MOST USED LANGUAGES
-
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhessfrois&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <hr>
 
@@ -35,10 +35,4 @@ With the discovering of this area, I fell in love with the way I could create at
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-badge&logo=html5&logoColor=fff)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=fff)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=fff)&nbsp;
-<hr>  
-  
-### CONTACTS
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhessfrois/)](//www.linkedin.com/in/jhessfrois/) 
-[![Instagram Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&&target=_blank&logo=Instagram&logoColor=black&link=https://www.instagram.com/jhess.dev/)](//www.instagram.com/jhess.dev/) 
-[![Gmail Badge](https://img.shields.io/badge/-jhessfsantos@gmail.com-fff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:jhessfsantos@gmail.com)](mailto:jhessfsantos@gmail.com)
+<hr>
