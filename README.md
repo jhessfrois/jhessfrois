@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://cdn.discordapp.com/attachments/1151828084207652866/1151828244694323200/Hand_coding-bro.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://cdn.discordapp.com/attachments/1167928739812880547/1167929539909927053/hands-on.png?ex=654fea25&is=653d7525&hm=fa391384bc0cf2991258d0e3b30da4430f80b25fff9b6478aba08c4821f86d95&">
 
 # Jhessica Frois
 
