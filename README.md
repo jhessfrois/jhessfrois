@@ -2,8 +2,7 @@
 
 # Jhessica Frois
 
-###### Frontend Developer & Software Engineer
-My name is Jhessica Frois, I'm 27 years old. I'm a Software Engineering student and Front End Development. Passionate about technology, music and animals.
+My name is Jhessica Frois, I'm 27 years old. I'm a Software Engineering student and I'm studying front end technologies. Passionate about technology, music and animals.
 <hr>
 
 ### CONTACTS
