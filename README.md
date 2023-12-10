@@ -8,7 +8,7 @@ My name is Jhessica Frois, I'm 27 years old. I'm a Software Engineering student 
 ### CONTACTS
  
 [![Linkedin Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhessfrois/)](//www.linkedin.com/in/jhessfrois/) 
-[![Instagram Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&&target=_blank&logo=Instagram&logoColor=black&link=https://www.instagram.com/jhess.dev/)](//www.instagram.com/jhess.dev/) 
+[![Instagram Badge](https://img.shields.io/badge/-Jhessica%20Frois-fff?style=flat-square&&target=_blank&logo=Instagram&logoColor=black&link=https://www.instagram.com/jhessfrois.tech/)](//www.instagram.com/jhess.dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-jhessfsantos@gmail.com-fff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:jhessfsantos@gmail.com)](mailto:jhessfsantos@gmail.com)
 
 ### DETALHES
